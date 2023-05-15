@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: #004669;
+    background: #eac540;
 text-align: center;
 position: relative;
 padding: 10px 20px;
@@ -18,14 +18,14 @@ text-transform: capitalize;
 }
 
 .home-page {
-    background-color:#e8ebec ;
+    background-color:#ffffff ;
     margin: 0px;
     padding:20px;
 }
 
 
 footer {
-    background: #004669;
+    background: #eac540;
 text-align: center;
 position: relative;
 padding: 5px 10px;
